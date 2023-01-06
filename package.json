@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/yoshinorin/monorepo-sandbox-main/issues"
   },
-  "homepage": "https://github.com/yoshinorin/monorepo-sandbox-main#readme"
+  "homepage": "https://github.com/yoshinorin/monorepo-sandbox-main#readme",
+  "dependencies": {
+    "@yoshinorin/monorepo-sandbox-sub1": "^1.0.0"
+  }
 }
